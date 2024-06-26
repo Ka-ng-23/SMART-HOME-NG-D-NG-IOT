@@ -1,0 +1,5 @@
+Ngày nay, với sự phát triển không ngừng của công nghệ, việc áp dụng các giải pháp thông minh vào đời sống hàng ngày đang trở nên phổ biến và cần thiết hơn bao giờ hết. Trong đó, hệ thống nhà thông minh (smart home) là một trong những ứng dụng nổi bật giúp cải thiện sự tiện nghi, an toàn và tiết kiệm năng lượng cho người sử dụng. Đồ án này được thực hiện với mục tiêu xây dựng một hệ thống nhà thông minh đơn giản nhưng hiệu quả, ứng dụng công nghệ IoT (Internet of Things) nhằm nâng cao chất lượng cuộc sống.
+
+Đồ án tập trung vào việc thiết kế và triển khai một hệ thống điều khiển thông minh với các chức năng chính như sau: Bảo mật cửa ra vào, giám sát nhiệt độ, khí gas gửi cảnh báo về điện thoại.
+
+Trong quá trình thực hiện đồ án, nhóm chúng em đã nghiên cứu và áp dụng các công nghệ tiên tiến cũng như các phương pháp lập trình nhằm tạo ra một hệ thống thông minh, linh hoạt và an toàn. Chúng em hy vọng rằng đồ án này sẽ mang lại những giá trị thiết thực, đồng thời mở ra những hướng phát triển mới trong lĩnh vực nhà thông minh.
